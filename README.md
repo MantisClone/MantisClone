@@ -1,4 +1,4 @@
-### 👋 Hello, I'm MantisClone (David Hunt-Mateo)
+# David (MantisClone) Hunt-Mateo
 
 <p> 
     <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
@@ -21,10 +21,12 @@
         src="https://img.shields.io/badge/Yat-ffde34?style=for-the-badge&logo=yat&logoColor=white"/></a> -->
 </p>
 
-### ❓ About Me
-
 - 👷‍♂️ I'm a freelance full-stack web3 developer
 - 🔭 I’m currently working on: Protocol enhancements and Developer Advocacy at [Request Network](https://github.com/RequestNetwork/)
+- 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
+
+### ❓ About Me
+
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
   - 1/2 year freelancing with several clients including [OceanDAO](https://github.com/oceanprotocol/oceandao/wiki), [BanklessDAO](https://www.bankless.community/), and [TalentDAO](https://github.com/Talent-DAO)
@@ -38,7 +40,6 @@
   - DeveloperDAO Mentor
   - RaidGuild cohort member
 - 🎓 I hold a Bachelor's degree, double major, in [Computer Engineering](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/) and [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) from the University of Wisconsin - Madison.
-- 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 - 😄 Pronouns: He/Him
 
 ### 🎯 Skills
@@ -175,7 +176,7 @@
 [![MantisClone's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantisclone&layout=compact&langs_count=8&hide=verilog,perl,assembly,matlab&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- &title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=-45,83f5e5,7A93DE -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mantisclone.count_visitors)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mantisclone.count_visitors) -->
 
 <!--
 **DMats/DMats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
