@@ -26,7 +26,7 @@
 - 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 
 <p float="left">
-  <img src="https://github.com/MantisClone/MantisClone/blob/main/resources/111254213_padded_logo_high_res.png" alt="Mantis Data Solutions Logo" width="200" height="200"/>
+  <img src="https://github.com/MantisClone/MantisClone/assets/2530913/3c019a83-b410-4fee-aee2-de0abefab192" alt="Mantis Data Solutions Logo" width="200" height="200"/>
   <img src="https://github.com/MantisClone/MantisClone/assets/2530913/80ed6436-f403-466c-9bda-f4d365035b18" alt="Request Network Logo" height="200"/>
 </p>
 
