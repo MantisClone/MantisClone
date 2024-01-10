@@ -31,6 +31,7 @@
   - 1 year at [Ocean Protocol Foundation](https://oceanprotocol.com/) maintaining the ocean.py SDK, aquarius event cache, and provider access proxy. Developed features and tests for [Ocean ONDA V4](https://blog.oceanprotocol.com/oceanonda-v4-production-has-arrived-cb4fe8faaf39) which added DataNFTs and improved monetization.
   - 3 years at [Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/) building a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   - 4 years at [Northrop Grumman](https://www.northropgrumman.com/) working on a variety of projects including GUI integration testing, experimental low-latency networking, hardware emulation, and embedded image processing.
+  - 1/2 year at [Rockwell Automation](https://www.rockwellautomation.com/en-us.html)
 - Other Affiliations:
   - KERNEL Guide
   - Opolis Ambassador
