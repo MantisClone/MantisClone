@@ -17,30 +17,25 @@
         src="https://img.shields.io/badge/Calendly-5593ff?style=for-the-badge&logo=googlecalendar&logoColor=white"/></a>
     <a href="https://mirror.xyz/mantisclone.eth" target="_blank"><img alt="Mirror"
         src="https://img.shields.io/badge/Mirror-007AFF.svg?&style=for-the-badge&logo=mirror&logoColor=white"/></a>
-    <a href="https://y.at/🐜💻🔧" target="_blank"><img alt="Yat"
-        src="https://img.shields.io/badge/Yat-ffde34?style=for-the-badge&logo=yat&logoColor=white"/></a>
+<!--     <a href="https://y.at/🐜💻🔧" target="_blank"><img alt="Yat"
+        src="https://img.shields.io/badge/Yat-ffde34?style=for-the-badge&logo=yat&logoColor=white"/></a> -->
 </p>
 
 ### ❓ About Me
 
 - 👷‍♂️ I'm a freelance full-stack web3 developer
 - 🔭 I’m currently working on: Protocol enhancements and Developer Advocacy at [Request Network](https://github.com/RequestNetwork/)
-- 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
-  - 5 months freelancing
-    - Developed a microservice for OceanDAO that downloads files from IPFS and uploads them to Arweave via Bundlr.
-    - Developed [Snapshot](https://docs.snapshot.org/) voting strategies for [Arrakis](https://snapshot.org/#/strategy/arrakis-finance), [H2O](https://snapshot.org/#/strategy/h2o), [Rari Fuse](https://snapshot.org/#/strategy/rari-fuse), and [Fight Club](https://snapshot.org/#/strategy/fight-club)
-    - Maintained Snapshot config and primary website for BanklessDAO
-    - Deployed SourceCred and Praise instances for [TalentDAO](https://github.com/Talent-DAO)
-    - Aggregated list of [Awesome Reputation Systems](https://github.com/MantisClone/awesome-reputation-systems)
-    - KERNEL Guide
-    - Opolis Ambassador
-    - DeveloperDAO Mentor
-    - RaidGuild cohort member
+  - 1/2 year freelancing with several clients including [OceanDAO](https://github.com/oceanprotocol/oceandao/wiki), [BanklessDAO](https://www.bankless.community/), and [TalentDAO](https://github.com/Talent-DAO)
   - 1 year at [Ocean Protocol Foundation](https://oceanprotocol.com/) maintaining the ocean.py SDK, aquarius event cache, and provider access proxy. Developed features and tests for [Ocean ONDA V4](https://blog.oceanprotocol.com/oceanonda-v4-production-has-arrived-cb4fe8faaf39) which added DataNFTs and improved monetization.
   - 3 years at [Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/) building a cross-platform, on-device, noise-robust speech recognition system along with desktop and native Android apps showcasing its capabilities.
   - 4 years at [Northrop Grumman](https://www.northropgrumman.com/) working on a variety of projects including GUI integration testing, experimental low-latency networking, hardware emulation, and embedded image processing.
+- Other Affiliations:
+  - KERNEL Guide
+  - Opolis Ambassador
+  - DeveloperDAO Mentor
+  - RaidGuild cohort member
 - 🎓 I hold a Bachelor's degree, double major, in [Computer Engineering](https://guide.wisc.edu/undergraduate/engineering/electrical-computer-engineering/computer-engineering-bs/) and [Computer Science](https://guide.wisc.edu/undergraduate/letters-science/computer-sciences/computer-sciences-bs/) from the University of Wisconsin - Madison.
 - 📫 Email me at [david.hunt-mateo@mantisdata.solutions](mailto:david.hunt-mateo@mantisdata.solutions) or [schedule a 1:1 call](https://calendly.com/mantisclone/30min)
 - 😄 Pronouns: He/Him
