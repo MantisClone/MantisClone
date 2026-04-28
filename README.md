@@ -15,7 +15,7 @@ Find me online as MantisClone.
 
 <p>
     <a href="https://www.linkedin.com/in/david-hunt-mateo" target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://x.com/MantisClone" target="_blank"><img alt="X"
         src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://t.me/mantisclone" target="_blank"><img alt="Telegram"
@@ -23,7 +23,7 @@ Find me online as MantisClone.
     <a href="https://discordapp.com/users/mantisclone" target="_blank"><img alt="Discord"
         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://paragraph.com/@mantisclone-2/freelancing-in-web3-liability-benefits-tax-compliance-operations-and-accounting" target="_blank"><img alt="Paragraph"
-        src="https://img.shields.io/badge/Paragraph-000000.svg?&style=for-the-badge&logo=paragraph&logoColor=white"/></a>
+        src="https://img.shields.io/badge/Paragraph-000000?style=for-the-badge&logoColor=white"/></a>
     <a href="https://github.com/MantisClone" target="_blank"><img alt="GitHub"
         src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
