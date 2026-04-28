@@ -16,8 +16,8 @@ Find me online as MantisClone.
 <p>
     <a href="https://www.linkedin.com/in/david-hunt-mateo" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/MantisClone" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://x.com/MantisClone" target="_blank"><img alt="X"
+        src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
     <a href="https://t.me/mantisclone" target="_blank"><img alt="Telegram"
         src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://discordapp.com/users/mantisclone" target="_blank"><img alt="Discord"
