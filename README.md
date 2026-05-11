@@ -2,7 +2,7 @@
 
 **The bottleneck in software engineering is shifting from code to coordination.** Models run 24/7 and you can spin up as many as you want. The limit isn't compute or talent, it's management. Engineering leadership is starting to look more like directing swarms of agents than reviewing code.
 
-I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/RequestNetwork/). We're a 4-person team shipping payments infrastructure, and most of our work is already AI-augmented. The share keeps growing.
+I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/RequestNetwork/). We're a 5-person engineering team shipping payments infrastructure, and most of our work is already AI-augmented. The share keeps growing.
 
 13+ years across embedded systems, defense, speech recognition, and the last 5 years in blockchain and payments. First technical hire at Request Network in 2022; helped rebuild the engineering function from scratch.
 
