@@ -1,8 +1,8 @@
 # David Hunt-Mateo
 
-**The bottleneck in software engineering is shifting from code to coordination.** Models run 24/7 and you can conjure as many as you want — the limit isn't compute or talent, it's management. Engineering leadership is becoming the practice of directing swarms of agents toward useful work.
+**The bottleneck in software engineering is shifting from code to coordination.** Models run 24/7 and you can spin up as many as you want. The limit isn't compute or talent, it's management. Engineering leadership is starting to look more like directing swarms of agents than reviewing code.
 
-I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/RequestNetwork/), exploring what that practice looks like in production: a 4-person team shipping payments infrastructure where most of the work is already AI-augmented and the share keeps growing.
+I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/RequestNetwork/). We're a 4-person team shipping payments infrastructure, and most of our work is already AI-augmented. The share keeps growing.
 
 13+ years across embedded systems, defense, speech recognition, and the last 5 years in blockchain and payments. First technical hire at Request Network in 2022; helped rebuild the engineering function from scratch.
 
@@ -34,9 +34,9 @@ Find me online as MantisClone.
 
 ### Currently Exploring
 
-- **Adapting [Jeffrey Emanuel's Agentic Coding Flywheel](https://agent-flywheel.com/complete-guide) to a team setting.** The methodology is built for solo builders; the open question is what changes when there's a 4-person team, shared review responsibilities, and stakeholders who didn't sign up to be agent-orchestrators.
-- **Sprint automation** — turning meeting notes into issues, retros into action items, standups into Geekbot updates. Reducing the friction between "what was decided" and "what gets tracked."
-- **Self-improving Claude Code skills** for high-leverage workflows: sprint planning, code review, message drafting, expert review.
+- **Adapting [Jeffrey Emanuel's Agentic Coding Flywheel](https://agent-flywheel.com/complete-guide) to a team setting.** Jeff built it for a solo builder. The interesting question is what breaks when you add a shared codebase, code review across humans, and stakeholders who didn't sign up to be agent-orchestrators.
+- **Sprint automation.** Meeting notes into issues, retros into action items, standups into Geekbot updates. Closing the gap between what gets decided and what gets tracked.
+- **Self-improving Claude Code skills** for the workflows I touch most: sprint planning, code review, message drafting.
 
 ### Previously
 
