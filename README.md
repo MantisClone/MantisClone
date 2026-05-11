@@ -6,6 +6,8 @@ I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/Re
 
 13+ years across embedded systems, defense, speech recognition, and the last 5 years in blockchain and payments. First technical hire at Request Network in 2022; helped rebuild the engineering function from scratch.
 
+I care about clear async communication, radical candor, and not overengineering things. Remote work only.
+
 Find me online as MantisClone.
 
 <p float="left">
