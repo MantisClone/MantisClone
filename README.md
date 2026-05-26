@@ -2,9 +2,9 @@
 
 **The bottleneck in software engineering is shifting from code to coordination.** Models run 24/7 and you can spin up as many as you want. The limit isn't compute or talent, it's management. Engineering leadership is starting to look more like directing swarms of agents than reviewing code.
 
-I'm Engineering Lead and Scrum Master at [Request Network](https://github.com/RequestNetwork/). We're a 5-person engineering team shipping payments infrastructure, and most of our work is already AI-augmented. The share keeps growing.
+I'm Engineering Lead and Scrum Master at a web3 payments protocol. We're a 5-person engineering team shipping payments infrastructure, and most of our work is already AI-augmented. The share keeps growing.
 
-13+ years across embedded systems, defense, speech recognition, and the last 5 years in blockchain and payments. First technical hire at Request Network in 2022; helped rebuild the engineering function from scratch.
+13+ years across embedded systems, defense, speech recognition, and the last 5 years in blockchain and payments. First technical hire at my current employer in 2022; helped rebuild the engineering function from scratch.
 
 I care about clear async communication, radical candor, and not overengineering things. Remote work only.
 
@@ -12,7 +12,6 @@ Find me online as MantisClone.
 
 <p float="left">
   <img src="https://github.com/MantisClone/MantisClone/assets/2530913/3c019a83-b410-4fee-aee2-de0abefab192" alt="Mantis Data Solutions Logo" width="200" height="200"/>
-  <img src="https://github.com/MantisClone/MantisClone/assets/2530913/80ed6436-f403-466c-9bda-f4d365035b18" alt="Request Network Logo" height="200"/>
 </p>
 
 ### Connect
@@ -40,7 +39,7 @@ Find me online as MantisClone.
 
 ### Previously
 
-- **[Request Network](https://github.com/RequestNetwork/)** (Nov 2022 - Dec 2025) — Senior Blockchain Engineer. First technical hire; oversaw development of batch payouts, crosschain, crypto-to-fiat, subscriptions, and commerce escrow.
+- **Web3 payments protocol** (Nov 2022 - Dec 2025) — Senior Blockchain Engineer. First technical hire; oversaw development of batch payouts, crosschain, crypto-to-fiat, subscriptions, and commerce escrow.
 - **[Ocean Protocol](https://oceanprotocol.com/)** — Maintained ocean.py SDK, aquarius, and provider. Shipped Ocean ONDA V4.
 - **Freelance** via [Mantis Data Solutions](https://mantisdata.solutions) — Clients included [OceanDAO](https://github.com/oceanprotocol/oceandao/wiki), [BanklessDAO](https://www.bankless.community/), and [TalentDAO](https://github.com/Talent-DAO).
 - **[Think-A-Move](https://web.archive.org/web/20220715171403/https://think-a-move.com/products/spear-asr/)** — Cross-platform on-device speech recognition system and native Android apps.
